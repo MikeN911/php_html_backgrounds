@@ -1,2 +1,1 @@
-# PHP HTML background README
-Zvýrazňování HTML v PHP souborech
+## VSCode extension - PHP HTML background
